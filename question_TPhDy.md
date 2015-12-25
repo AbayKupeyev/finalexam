@@ -1,0 +1,4 @@
+__ is used to open the console mode in RedHat Linux.
+ ++ Terminal
+ +* GNOME
+ +* KDE
