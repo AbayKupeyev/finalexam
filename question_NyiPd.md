@@ -1,0 +1,4 @@
+Linux originally developed by___
+ +* Denis Ritche
+ +* Ken Thompson
+ ++ Linus Torvalds
